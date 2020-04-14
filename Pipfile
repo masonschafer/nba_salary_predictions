@@ -13,6 +13,8 @@ notebook = "*"
 seaborn = "*"
 wordcloud = "*"
 nltk = "*"
+sklearn = "*"
+statsmodels = "*"
 
 [requires]
 python_version = "3.6"
